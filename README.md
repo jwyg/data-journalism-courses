@@ -1,4 +1,4 @@
-# Data Journalism Courses
+# Data Journalism University Courses and Programmes
 
 Project for collecting details on courses and programmes dedicated to teaching data journalism from around the world – with an initial focus on universities and higher educational institutions.
 
