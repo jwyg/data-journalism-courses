@@ -1,10 +1,10 @@
 # Data Journalism University Courses and Programmes
 
-Project for collecting details on courses and programmes dedicated to teaching data journalism from around the world – with an initial focus on universities and higher educational institutions.
+Project for collecting details on courses and programmes dedicated to teaching data journalism from around the world – with an initial focus on universities and higher educational institutions. This is very much in progress. If you'd like to help out, you can [add or look at the issues](https://github.com/jwyg/data-journalism-courses/issues).
 
-## Adding
+## Suggesting additions
 
-To suggest a new data journalism course or programme, please use the following format:
+To suggest a  data journalism course or programme, please use the following format:
 
 ```
 "Name","Institution","Country","Level","Type","URL"
@@ -18,3 +18,11 @@ To suggest a new data journalism course or programme, please use the following f
   * **URL** – The full URL where further details about the course can be found (ideally with details of the course or programme rather than for the overarching degree or institution)
   
   You can suggest changes either by [opening an issue](https://github.com/jwyg/data-journalism-courses/issues) or [submitting a pull request](https://github.com/jwyg/data-journalism-courses/pulls).
+
+## Other relevant initiatives
+
+See also:
+
+  * Dan Nguyen's collection of [Computer-Assisted Reporting and Data Journalism Syllabuses](https://github.com/dannguyen/journalism-syllabi)
+  * Charles Berret and Cheryl Phillips's report on ["Teaching Data and Computational Journalism"](https://journalism.columbia.edu/system/files/content/teaching_data_and_computational_journalism.pdf) (New York: Columbia Journalism School, 2016)
+  * Splendore, S., Di Salvo, P., Eberwein, T., Groenhart, H., Kus, M., & Porlezza, C. (2016). Educational strategies in data journalism: A comparative study of six European countries. *Journalism*, 17(1), 138–152. https://doi.org/10.1177/1464884915612683
