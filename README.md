@@ -1,2 +1,2 @@
 # data-journalism-courses
-List of data journalism courses and programmes from around the world
+New project for collecting details on data journalism courses and programmes from around the world – with an initial focus on universities.
