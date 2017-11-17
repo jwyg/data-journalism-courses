@@ -17,7 +17,7 @@ To suggest a  data journalism course or programme, please use the following form
   * **Type** – The type of course – either "Module", "Programme" or "Certificate"
   * **URL** – The full URL where further details about the course can be found (ideally with details of the course or programme rather than for the overarching degree or institution)
   
-  You can suggest changes either by [opening an issue](https://github.com/jwyg/data-journalism-courses/issues) or [submitting a pull request](https://github.com/jwyg/data-journalism-courses/pulls).
+  You can suggest changes either by [opening an issue](https://github.com/jwyg/data-journalism-courses/issues), [submitting a pull request](https://github.com/jwyg/data-journalism-courses/pulls), [sending me an email](https://www.kcl.ac.uk/artshums/depts/ddh/people/academic/gray.aspx) or contacting me on Twitter at [@jwyg](http://twitter.com/jwyg).
 
 ## Other relevant initiatives
 
