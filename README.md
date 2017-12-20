@@ -20,6 +20,8 @@ To suggest a  data journalism course or programme, please use the following form
   * **URL** – The full URL where further details about the course can be found (ideally with details of the course or programme rather than for the overarching degree or institution)
   
   You can suggest changes either by [opening an issue](https://github.com/jwyg/data-journalism-courses/issues), [submitting a pull request](https://github.com/jwyg/data-journalism-courses/pulls), [sending me an email](https://www.kcl.ac.uk/artshums/depts/ddh/people/academic/gray.aspx) or contacting me on Twitter at [@jwyg](http://twitter.com/jwyg).
+  
+**NOTE**: This [project is licensed](https://github.com/jwyg/data-journalism-courses/blob/master/LICENSE) under the [Creative Commons Attribution-Sharealike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). By contributing to this project you agree that your additions will be made available under the terms of this license. 
 
 ## Other relevant initiatives
 
