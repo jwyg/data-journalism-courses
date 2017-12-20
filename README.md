@@ -2,6 +2,8 @@
 
 Project for collecting details on courses and programmes dedicated to teaching data journalism from around the world – with an initial focus on universities and higher educational institutions. This is very much a work in progress. If you'd like to help out, you can [add or look at the issues](https://github.com/jwyg/data-journalism-courses/issues).
 
+![Alluvial Diagram on Data Journalism Courses and Programmes](https://i.imgur.com/Kj2pVje.png "Alluvial Diagram on Data Journalism Courses and Programmes")
+
 ## Suggesting additions
 
 To suggest a  data journalism course or programme, please use the following format:
