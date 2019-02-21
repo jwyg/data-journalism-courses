@@ -1,0 +1,64 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "resource1",
+      "path": "https://raw.githubusercontent.com/jwyg/data-journalism-courses/master/data-journalism-university-courses.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Level",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "URL",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "data journalism"
+  ],
+  "name": "data-journalism-courses",
+  "title": "Data Journalism Courses",
+  "description": "List of data journalism courses and programmes from universities and higher education institutions around the world.",
+  "homepage": "https://github.com/jwyg/data-journalism-courses",
+  "contributors": [
+    {
+      "title": "Jonathan Gray",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}
